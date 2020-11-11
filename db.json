@@ -1,4 +1,5 @@
-[{
+{
+  "people":[{
   "id": 1,
   "full_name": "Lonnie Argo",
   "email": "largo0@addtoany.com",
@@ -99,3 +100,4 @@
   "email": "gtaintonj@nbcnews.com",
   "gender": "Male"
 }]
+}
